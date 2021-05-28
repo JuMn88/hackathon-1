@@ -1,3 +1,14 @@
+# Hackaton 1 Wild Code School
+
+## Réalisation d'une application web sur le thème de la planète Mars et des rovers de la NASA
+
+##### - Projet réalisé par 5 élèves sur 2 jours (Semaine 11 de la formation)
+##### - Conception d'une application web de microblogging respectant le format d'affichage de l'utilisateur (écran de smartphone ou d'ordinateur)
+##### - Programmation Orientée Objet selon la structure MVC
+##### - Utilisation des langages HTML/CSS/PHP/MySQL // Utilisation de GIT
+
+
+
 # Simple MVC
 
 ## Description
